@@ -1,5 +1,5 @@
-#globalminer claymore
 globalminer ethminer
+#globalminer claymore
 #globalminer ewbf-equihash
 maxgputemp 97
 stratumproxy enabled
